@@ -42,7 +42,7 @@ $ git clone git@github.com:fpiantini/pfsamplebot.git
 $ go install github.com/fpiantini/pfsamplebot
 ```
 
-# Esecuizione
+# Esecuzione
 
 Per lanciare il bot eseguire:
 

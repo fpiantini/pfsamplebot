@@ -35,6 +35,8 @@ func main() {
       answer = "vedi alla voce: serj"
     case "/pf":
       answer = "http://www.fpiantini.it/chi-sono/"
+    case "/code":
+      answer = "https://github.com/fpiantini/pfsamplebot/"
 
     default:
       answer = "Comando sconosciuto: " + mess
